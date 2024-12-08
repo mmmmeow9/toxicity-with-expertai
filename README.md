@@ -1,4 +1,4 @@
-# toxicity-with-expertai
+# toxicity-with-expert.ai
 
 This is the core code for paper [A Personalized Harmful Information Detection System Based on User Portraits](https://aisel.aisnet.org/amcis2022/sig_odis/sig_odis/16/)
 
